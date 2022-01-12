@@ -3,6 +3,9 @@
 ### Date created
 1/12/2022
 
+### Written by
+Zion Ayetuoma
+
 ### Project Title
 Project 2: Udacity Bike-Share Project
 
